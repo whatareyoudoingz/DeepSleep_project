@@ -38,6 +38,7 @@
 
 <br/>
 
+
 **2. 폴더 구성**
 - `2020_2th_paper_data_plus_activity_v2.csv` : 최종 활용 데이터 파일
 - `data_2th.iypnb` : 데이터 구축 파일
