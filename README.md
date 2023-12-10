@@ -115,3 +115,7 @@
 ----
 
 <br/>
+
+### **4. DS Day 포스터**
+
+  <img width="557" alt="스크린샷 2023-12-10 오후 9 36 03" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/42a2d569-1062-4f65-adbf-d6434bc6edbc">
