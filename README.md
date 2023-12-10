@@ -1,4 +1,4 @@
-**라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구**
+# 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구
 
 *!본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.!*
 
@@ -6,9 +6,7 @@
 
 **1. 데이터**
 - 원시 데이터 : [ETRI 라이프로그 데이터셋 (2020)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
-- 최종 사용한 가공 데이터 : 2020_2th_paper_data_plus_activity_v2.csv
-----
-
+  
 - 스케일링해줘야 될 연속형 변수
     - cAmount(ml) : 카페인 섭취량
     - aAmount(ml) : 알코올 섭취량
@@ -43,6 +41,7 @@
 - `2020_2th_paper_data_plus_activity_v2.csv` : 최종 활용 데이터 파일
 - `data_2th.iypnb` : 데이터 구축 파일
 - `result_2th.iypnb` : 이진분류 결과 파일
+- 
   ```
   - 주관적 수면 점수 이진분류
     - origin
