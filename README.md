@@ -41,7 +41,7 @@
 - `2020_2th_paper_data_plus_activity_v2.csv` : 최종 활용 데이터 파일
 - `data_2th.iypnb` : 데이터 구축 파일
 - `result_2th.iypnb` : 이진분류 결과 파일
-- 
+  
   ```
   - 주관적 수면 점수 이진분류
     - origin
