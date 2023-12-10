@@ -35,7 +35,7 @@
 ----
 
 - 이진분류 기준 수치
-<img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce"># ETRI-lifelog-data-project
+<img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce">
 
 <br/>
 
