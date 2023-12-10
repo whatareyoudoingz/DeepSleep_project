@@ -33,11 +33,13 @@
 <br/>
 
 - 연구 결과
-  - 교차검증 정확도 
+  - 교차검증 정확도
+    
     <img width="306" alt="스크린샷 2023-12-10 오후 9 02 03" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b8f5d433-dafe-4274-8932-9c70d41e866d">
     <img width="284" alt="스크린샷 2023-12-10 오후 9 02 23" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/ce8cd23b-9b62-4b03-9cd4-063be9f87064">
     
   - 특성중요도
+    
     <img width="302" alt="스크린샷 2023-12-10 오후 9 02 45" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b3bc20d6-aca2-40f4-b38c-097a5e2a10a9">
     <img width="302" alt="스크린샷 2023-12-10 오후 9 02 58" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/cbeb63dd-774f-46e6-b4c9-a630d9a8d3e8">
 
@@ -82,7 +84,7 @@
     - total_sleep_time : 총 수면시간
 
 - 이진분류 기준 수치
-<img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce">
+  <img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce">
 
 ----
 
