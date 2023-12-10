@@ -4,8 +4,7 @@
 
 ----
 
-### **1. 데이터**
-- 원시 데이터 : [ETRI 라이프로그 데이터셋 (2020)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
+### **1. 데이터** : [ETRI 라이프로그 데이터셋 (2020)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
   
 - 스케일링해줘야 될 연속형 변수
     - cAmount(ml) : 카페인 섭취량
@@ -46,7 +45,7 @@
   - 주관적 수면 점수 이진분류
     - origin
     - origin/총 수면시간
-    - 
+
   - 깊은 수면시간 이진분류
     - origin
     - origin/총 수면시간
