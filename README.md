@@ -3,7 +3,6 @@
 *!본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.!*
 
 ----
-
 <br/>
 
 ### **1. 연구 요약 및 결과**
