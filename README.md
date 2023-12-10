@@ -2,7 +2,7 @@
 
 **라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구**
 
-****본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.****
+**** *본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.* ****
 
 ----
 
