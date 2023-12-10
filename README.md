@@ -8,6 +8,7 @@
 
 ### **1. 연구 요약 및 결과**
 - 연구 목적
+  ```
   수면은 건강한 삶을 유지하는 데 필수적인 요소로서, 수면 문제는 조기 사망의 예측 요인으로 알려져 있다.
   수면에 관한 연구에 따르면,수면시간을 10시간 이상 가진 사람이 7-8시간 가진 사람보다 사망률이 약 1.8배 높아 무조건적인 수면시간의 증가가 삶의 질 향상으로 이어지지 않는다고 볼 수 있다.
   또한 수면의 질은 수면의 양보다 삶의 질 향상과 건강 개선에 더 유의미한 관계를 가지므로 수면의 질을 중점적으로 연구할 필요가 있다.
@@ -16,24 +17,27 @@
   본 논문에서는 사용한 한국전자통신연구원(ETRI)의 2020년도 라이프로그 데이터에서는 수면 테크기기로 수면의 질을 측정하는데, 수면 데이터를 측정하고, 이를 기반으로 산출된 수면 점수를 수면의 질 지표로 제공한다.
   수면 테크기기 수면 점수는 Withing Sleep Tracking Mat에서 측정한 총 수면시간, 회복 단계와 수면에 소요되는 밤의 일부, 취침 시간과 일어나는 시간 사이의 일관성, 깨어 있는 시간을 기반으로 측정된다. 그러나 이 지표는 수면의 양을 나타내는 총 수면시간에 과하게 의존하므로 수면의 질 지표로 사용하기에 무리가 있다. 이에 따라 본 논문에서는 깊은 수면시간을 수면의 질 추정 지표로 삼아 이진분류를 진행하여 정확도를 높이고자 한다.
   또한, 수면의 양적 영향을 줄이고 심리 · 생활 · 환경 요인을 추가하여 수면의 양적 요인 외의 다양한 요인 중에서 수면의 질에 영향을 주는 요인을 탐색하고자 한다.
+  ```
 
 <br/>
 
 - 깊은 수면비율을 수면의 질 지표로 선정한 이유
+  ```
   수면 점수를 기준으로 분류했을 때 중요 변수는 총 수면시간, 램 수면시간, 호흡 방해 강도, 얕은 수면시간, 깊은 수면시간 순이었다.
   또한, 깊은 수면시간은 부족할 시 면역 기능이 저하되고, 신경학적 질환이 악화할 수 있으며, 제2형 당뇨병 및 심장병 발병에 기여하는 등 삶의 질과 건강 악화로 이어진다고 알려져 있다.
   이러한 이유들로 인해 깊은 수면시간은 수면의 질을 좌우한다고 볼 수 있으므로 총 수면시간의 영향을 줄이고자 깊은 수면시간을 총 수면시간으로 나눈 값인 “깊은 수면 비율”을 수면 점수를 대체할 수 면의 질 지표로 설정하였다.
+  ```
   
 <br/>
 
 - 연구 결과
   - 교차검증 정확도 
-    <img width="302" alt="스크린샷 2023-12-10 오후 9 02 45" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b3bc20d6-aca2-40f4-b38c-097a5e2a10a9">
-    <img width="302" alt="스크린샷 2023-12-10 오후 9 02 58" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/cbeb63dd-774f-46e6-b4c9-a630d9a8d3e8">
+    <img width="306" alt="스크린샷 2023-12-10 오후 9 02 03" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b8f5d433-dafe-4274-8932-9c70d41e866d">
+    <img width="284" alt="스크린샷 2023-12-10 오후 9 02 23" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/ce8cd23b-9b62-4b03-9cd4-063be9f87064">
     
   - 특성중요도
-  <img width="306" alt="스크린샷 2023-12-10 오후 9 02 03" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b8f5d433-dafe-4274-8932-9c70d41e866d">
-  <img width="284" alt="스크린샷 2023-12-10 오후 9 02 23" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/ce8cd23b-9b62-4b03-9cd4-063be9f87064">
+    <img width="302" alt="스크린샷 2023-12-10 오후 9 02 45" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/b3bc20d6-aca2-40f4-b38c-097a5e2a10a9">
+    <img width="302" alt="스크린샷 2023-12-10 오후 9 02 58" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/cbeb63dd-774f-46e6-b4c9-a630d9a8d3e8">
 
 <br/>
 
