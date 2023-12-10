@@ -4,7 +4,7 @@
 
 ----
 
-**1. 데이터**
+### **1. 데이터**
 - 원시 데이터 : [ETRI 라이프로그 데이터셋 (2020)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR)
   
 - 스케일링해줘야 될 연속형 변수
@@ -37,7 +37,7 @@
 <br/>
 
 
-**2. 폴더 구성**
+### **2. 폴더 구성**
 - `2020_2th_paper_data_plus_activity_v2.csv` : 최종 활용 데이터 파일
 - `data_2th.iypnb` : 데이터 구축 파일
 - `result_2th.iypnb` : 이진분류 결과 파일
