@@ -1,8 +1,6 @@
-<img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce"># ETRI-lifelog-data-project
-
 **라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구**
 
-**!본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.!**
+*!본 프로젝트는 [라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구](https://github.com/amthreeh/ETRI-lifelog-data-project)의 후속연구입니다.!*
 
 ----
 
@@ -35,6 +33,9 @@
     - sleep_score : 주관적 수면 점수
     - total_sleep_time : 총 수면시간
 ----
+
+- 이진분류 기준 수치
+<img width="1040" alt="image" src="https://github.com/whatareyoudoingz/DeepSleep_project/assets/108795647/3301d76e-548d-49a1-8708-fe7144ec74ce"># ETRI-lifelog-data-project
 
 <br/>
 
