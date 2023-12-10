@@ -9,8 +9,6 @@
 - 최종 사용한 가공 데이터 : 2020_2th_paper_data_plus_activity_v2.csv
 ----
 
-<br/>
-
 - 스케일링해줘야 될 연속형 변수
     - cAmount(ml) : 카페인 섭취량
     - aAmount(ml) : 알코올 섭취량
@@ -40,9 +38,9 @@
 <br/>
 
 **2. 폴더 구성**
-- 2020_2th_paper_data_plus_activity_v2.csv : 최종 활용 데이터 파일
-- data_2th.iypnb : 데이터 구축 파일
-- result_2th.iypnb : 이진분류 결과 파일
+- `2020_2th_paper_data_plus_activity_v2.csv` : 최종 활용 데이터 파일
+- `data_2th.iypnb` : 데이터 구축 파일
+- `result_2th.iypnb` : 이진분류 결과 파일
   ```
   - 주관적 수면 점수 이진분류
     - origin
